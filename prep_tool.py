@@ -7,7 +7,7 @@ import numpy as np
 
 # Declaring the files requiring preparation
 
-files = ['C:/Users/User/Documents/Data/Corn_Counties_Yield_Belt_NASS.csv', 'C:/Users/User/Documents/Data/Corn_Counties_Yield_All_NASS.csv']
+files = ['C:/Users/User/Documents/Data/Cornvergence/Corn_Counties_Yield_Belt_NASS.csv', 'C:/Users/User/Documents/Data/Cornvergence/Corn_Counties_Yield_All_NASS.csv']
 
 # Defining the prep function
 
