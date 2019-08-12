@@ -597,4 +597,3 @@ fig.update_layout(
 
 fig.layout.template = None
 fig.write_image('C:/Users/User/Documents/Data/Cornvergence/all_diffs.png')
-
